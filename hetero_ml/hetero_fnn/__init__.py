@@ -1,0 +1,2 @@
+from .hetero_fnn_active import HeteroFNN_ACT
+from .hetero_fnn_passive import HeteroFNN_PAS
